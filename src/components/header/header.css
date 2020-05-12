@@ -1,0 +1,49 @@
+.header {
+  text-align: center;
+  padding-top: 10%;
+  color: white;
+}
+
+.headerName {
+  color: white;
+  font-size: 65px;
+}
+
+.headerDescription {
+  color: lightgray;
+  font-size: 18px;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+#findOutMoreButton {
+  color: var(--theme-gold);
+  background-color: transparent;
+  border-color: var(--theme-gold);
+}
+
+#findOutMoreButton:hover {
+  color: var(--theme-gold);
+  background-color: transparent;
+  border-color: var(--background-color);
+}
+
+#headerSocialButton {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 15%;
+}
+
+.headerButtons :hover {
+  color: var(--theme-gold);
+}
+
+@media screen and (max-width: 500px) {
+  .headerName {
+    font-size: 50px;
+  }
+
+  .headerDescription {
+    font-size: 16px;
+  }
+}

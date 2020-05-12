@@ -1,0 +1,38 @@
+nav {
+  min-width: 100vw;
+  position: fixed;
+  top: 0;
+  padding-left: 2%;
+  padding-right: 3%;
+  background: var(--background-fade);
+  z-index: 5;
+}
+
+#navbarSocial {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-link {
+  color: white;
+  font-size: 20px;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.nav-link-active {
+  color: var(--theme-gold);
+  font-size: 20px;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.nav-link:hover {
+  color: var(--theme-gold);
+}
+
+#navSocialButton {
+  color: var(--theme-gold);
+  font-size: 25px;
+  padding-right: 3%;
+}
