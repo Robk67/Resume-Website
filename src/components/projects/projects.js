@@ -167,7 +167,7 @@ const Projects = () => {
                 </div>
                 <div className="col-sm-3">
                   <a
-                    href="https://github.com/Robk67/Ocean-Treasure-Quest"
+                    href="https://github.com/Robk67/Resume-Website"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

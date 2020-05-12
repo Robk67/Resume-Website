@@ -12,9 +12,9 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <ScrollShower showId={"about"}>
-        <Navbar />
-      </ScrollShower>
+      {/* <ScrollShower showId={"about"}> */}
+      <Navbar />
+      {/* </ScrollShower> */}
       <About />
       <Skills />
       <Projects />
