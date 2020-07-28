@@ -11,9 +11,9 @@
   z-index: 1;
   min-height: 100vh;
   max-width: 100vw;
-  background-image: url("./assets/wallpaper.jpg");
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("./assets/wallpaper.jpg");
+  background-image: url("./assets/wallpaper2.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("./assets/wallpaper2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
