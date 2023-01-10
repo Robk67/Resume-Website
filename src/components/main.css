@@ -1,0 +1,18 @@
+.content{
+    justify-content: center;
+    padding-bottom: 0.5%;
+}
+
+.name{
+    color: whitesmoke;
+    font-size: 65px;
+}
+
+.subtitle{
+    color: whitesmoke;
+}
+
+#mainButton {
+    color: whitesmoke;
+    font-size: 20px;
+}
